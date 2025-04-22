@@ -3,10 +3,13 @@
 **Korean voice phishing dataset (600 phishing + 600 normal)**  
 This repository provides a structured Korean-language dataset for voice phishing detection research. The dataset includes Whisper-transcribed and GPT-4.1-cleaned call texts, with scam type annotations based on the Financial Supervisory Service's official classification.
 
-reference : 
-https://www.fss.or.kr/fss/bbs/B0000203/list.do?menuNo=200686
-https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=98
-https://github.com/selfcontrol7/Korean_Voice_Phishing_Detection
+<sub>
+📚 **References**  
+1. [금융감독원 보이스피싱 피해사례](https://www.fss.or.kr/fss/bbs/B0000203/list.do?menuNo=200686)  
+2. [AI Hub 금융상담 콜 데이터셋](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=98)  
+3. [Korean Voice Phishing Detection (Baseline)](https://github.com/selfcontrol7/Korean_Voice_Phishing_Detection)
+</sub>
+
 ---
 
 ## 📦 Dataset Overview
