@@ -71,7 +71,10 @@ The phishing dataset includes 14 types of fraud, annotated according to the Fina
 - 📦 Download full dataset: [`Voice_Phishing_KR`](https://github.com/Mathhwi/Voice_phising_KR)
 
 ---
+## 📬 Contact
+For questions or collaborations, please contact [rlarjsgnl@sogang.ac.kr]
 
+---
 ## 📄 Citation
 
 ```bibtex
@@ -84,7 +87,4 @@ The phishing dataset includes 14 types of fraud, annotated according to the Fina
 
 ---
 
-## 📬 Contact
-For questions or collaborations, please contact [rlarjsgnl@sogang.ac.kr]
 
----
